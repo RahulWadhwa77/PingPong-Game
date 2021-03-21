@@ -1,3 +1,5 @@
 # Mini-Projects
-  -CSS
-  -JavaScript
+
+  -HTML<br>
+  -CSS<br>
+  -JavaScript<br>
