@@ -1,1 +1,3 @@
 # Mini-Projects
+  -CSS
+  -JavaScript
